@@ -1,0 +1,2 @@
+Each discretization/step size configuration experiment is performed 3 times online.
+NRMSE values are computed by comparing the estimated angle from the EKF to the angle obtained from the CVA algorithm.
